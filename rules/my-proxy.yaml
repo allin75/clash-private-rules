@@ -1,18 +1,6 @@
 payload:
-  - DOMAIN,1501129.xyz
-  - DOMAIN,clash.razord.top
-  - DOMAIN,yacd.haishan.me
-  - DOMAIN-SUFFIX,makerworld.com
-  - DOMAIN-SUFFIX,speedtest.net
-  - DOMAIN,tzjs.kszwfw.cn
-  - DOMAIN,oracle
-  - DOMAIN,googleadservices
-  - DOMAIN,vxetable.cn
-  - DOMAIN,dcg.microsoft.com
-  - DOMAIN,yxai.chat
-  - DOMAIN,easytier
-  - DOMAIN,arm2.yfyf.fun
-  - DOMAIN-SUFFIX,ldstore.cc
-  - DOMAIN,ice.v.ua
-  - DOMAIN,tcp.ap-southeast-1.clawcloudrun.com
+  - DOMAIN-KEYWORD,github
+  - DOMAIN-SUFFIX,thingiverse.com
+  - DOMAIN,cpa.runner.cc.cd
+  - DOMAIN,magic-sub.zeabur.app
   - DOMAIN,sub2api.runner.cc.cd
