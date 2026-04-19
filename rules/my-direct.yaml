@@ -1,11 +1,11 @@
 payload:
-  - DOMAIN,1501129.xyz
+  - DOMAIN-SUFFIX,1501129.xyz
   - DOMAIN,clash.razord.top
   - DOMAIN,yacd.haishan.me
   - DOMAIN-SUFFIX,makerworld.com
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN,tzjs.kszwfw.cn
-  - DOMAIN,oracle
+  - DOMAIN-SUFFIX,oracle.com
   - DOMAIN,googleadservices
   - DOMAIN,vxetable.cn
   - DOMAIN,dcg.microsoft.com
@@ -14,4 +14,4 @@ payload:
   - DOMAIN,arm2.yfyf.fun
   - DOMAIN-SUFFIX,ldstore.cc
   - DOMAIN,ice.v.ua
-  - DOMAIN,tcp.ap-southeast-1.clawcloudrun.com
+  - DOMAIN-SUFFIX,clawcloudrun.com
