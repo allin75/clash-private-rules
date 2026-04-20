@@ -15,3 +15,4 @@ payload:
   - DOMAIN-SUFFIX,ldstore.cc
   - DOMAIN,ice.v.ua
   - DOMAIN,tcp.ap-southeast-1.clawcloudrun.com
+  - DOMAIN-SUFFIX,1501129
